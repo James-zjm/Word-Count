@@ -1,4 +1,4 @@
 # Word-Count
--*python3
+-python3
 # need:
--*pyqt5
+-pyqt5
